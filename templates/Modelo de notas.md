@@ -4,19 +4,18 @@ tags:
   - tema/xyz
 aliases: 
 lead: +++ Parágrafo de introdução vai aqui +++
-created: 2025-04-01, 11:21
-modified: 2025-04-01, 11:21
+created: <% tp.date.now("YYYY-MM-DD, HH:mm") %>
+modified: <% tp.date.now("YYYY-MM-DD, HH:mm") %>
 template_type: Nota
 template_version: "1.35"
 license: MicksCoder
 ---
 
 
-# Testando
+# <% tp.file.title %>
 
 > [!Resumo]
-> `As anotações são editadas aqui dentro
-> `
+> `= this.lead`
 
 # **PRINCIPAL**
 <!-- CONTEUDO PRINCIPAL -->

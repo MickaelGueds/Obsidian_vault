@@ -1,2 +1,0 @@
-Salve
-alo tyron
