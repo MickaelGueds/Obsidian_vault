@@ -1,11 +1,1 @@
-{
-  "templater-obsidian:create-templates/Modelo de notas.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ]
-}
+{}
