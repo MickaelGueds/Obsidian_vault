@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index/Fork for my brain.md",
+                "file": "Ingles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fork for my brain"
+              "title": "Ingles"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:tipo/nota",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index/Fork for my brain.md",
+                "file": "Ingles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fork for my brain"
+              "title": "Backlinks for Ingles"
             }
           },
           {
@@ -142,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index/Fork for my brain.md",
+                "file": "Ingles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fork for my brain"
+              "title": "Outgoing links from Ingles"
             }
           },
           {
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index/Fork for my brain.md",
+                "file": "Ingles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fork for my brain"
+              "title": "Outline of Ingles"
             }
           },
           {
@@ -209,11 +210,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f81ded93608b81d",
+  "active": "c53c97c00887b5dd",
   "lastOpenFiles": [
-    "templates/Como usar.md",
     "index/Fork for my brain.md",
-    "Untitled.md",
+    "Ingles.md",
+    "templates/Como usar.md",
     "Testando.md",
     "index",
     "Untitled 1.md",
