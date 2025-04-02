@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Modelo de notas.md",
+                "file": "Testando no ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo de notas"
+              "title": "Testando no ubuntu"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Ingles"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,10 +208,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c53c97c00887b5dd",
+  "active": "2ab1dee8de47b05b",
   "lastOpenFiles": [
-    "index/Fork for my brain.md",
+    "templates/Modelo de notas.md",
+    "Testando no ubuntu.md",
     "Ingles.md",
+    "index/Fork for my brain.md",
     "templates/Como usar.md",
     "Testando.md",
     "index",
@@ -223,7 +223,6 @@
     "Untitled 4.md",
     "Untitled 5.md",
     "Untitled 6.md",
-    "Untitled 7.md",
-    "templates/Modelo de notas.md"
+    "Untitled 7.md"
   ]
 }
