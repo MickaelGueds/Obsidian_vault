@@ -5,10 +5,13 @@ tags: []
 
 # Principais assuntos 
 ---
-## 1️⃣ - Software 
+## 1 - Software 
 - File link
 	- 
 
-## 2️⃣ - Theme 2
-- File link
-	- Brief description 
+## 2 - [[Segurança]]
+- [Segurança em sistemas web]
+	- Aprendizados sobre segurança em autentiicações de sistemas web
+
+## 3 - [[Mobile]]
+ - [Prova de mobile_ estudo rapido de flutter]
