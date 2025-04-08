@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Cluster de saude - versão 8 de abril"
             }
+          },
+          {
+            "id": "5f9b24b2e506f067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estatisticas clusters.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Estatisticas clusters"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cluster de saude - versão 8 de abril.md",
+                "file": "Estatisticas clusters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cluster de saude - versão 8 de abril"
+              "title": "Outline of Estatisticas clusters"
             }
           }
         ]
@@ -266,10 +280,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea3c9da60c4cd92f",
+  "active": "5f9b24b2e506f067",
   "lastOpenFiles": [
-    "widget.md",
+    "Estatisticas clusters.pdf",
     "Cluster de saude - versão 8 de abril.md",
+    "Estatisticas clusters.md",
+    "Cluster de saude - versão 8 de abril.pdf",
+    "widget.md",
     "widget de estado.md",
     "Revisão rapida para prova.md",
     "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
