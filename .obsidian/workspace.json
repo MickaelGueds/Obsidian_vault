@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Revisão rapida para prova"
             }
+          },
+          {
+            "id": "172e40ef48e77a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker_host.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker_host"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "widget.md",
+                "file": "Docker_host.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of widget"
+              "title": "Outline of Docker_host"
             }
           }
         ]
@@ -252,15 +266,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fd284a2e12951f2",
+  "active": "452550dfdc7f1a23",
   "lastOpenFiles": [
+    "widget.md",
+    "Docker_host.md",
     "Estatisticas clusters.md",
     "Cluster de saude - versão 8 de abril.pdf",
     "Cluster de saude - versão 8 de abril.md",
     "widget de estado.md",
     "Revisão rapida para prova.md",
     "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
-    "widget.md",
     "Mobile.md",
     "index/Fork for my brain.md",
     "templates/Como usar.md",
