@@ -37,6 +37,7 @@ license: MicksCoder
 
 **Fonte**
 - baseado_em:: https://youtu.be/3z6Cs_PtYc0?si=p5pKIVIDKHCeH_ap
+- Minha analise da documentação sobre segurança e outros do [[nest]], [[nest segurança]]
 
 **Referências**
 - veja:: https://docs.nestjs.com/security/authentication

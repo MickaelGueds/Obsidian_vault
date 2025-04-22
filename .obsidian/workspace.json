@@ -179,6 +179,16 @@
             }
           },
           {
+            "id": "2fd284a2e12951f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "01acec92851c09c4",
             "type": "leaf",
             "state": {
@@ -199,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "widget.md",
+                "file": "Estatisticas clusters.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,26 +232,16 @@
                   "repelStrength": 1.5625,
                   "linkStrength": 1,
                   "linkDistance": 125,
-                  "scale": 0.6666666666666666,
+                  "scale": 0.47551697508162816,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of widget"
-            }
-          },
-          {
-            "id": "2fd284a2e12951f2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Graph of Estatisticas clusters"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "bbadf94f2b93ef93",
@@ -280,22 +280,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f9b24b2e506f067",
+  "active": "68dbef829da80eac",
   "lastOpenFiles": [
+    "Cluster de saude - versão 8 de abril.pdf",
+    "nest segurança.md",
+    "nest.md",
+    "Jwt em login.md",
+    "Segurança.md",
+    "index/Fork for my brain.md",
+    "Estatisticas clusters.md",
     "Estatisticas clusters.pdf",
     "Cluster de saude - versão 8 de abril.md",
-    "Estatisticas clusters.md",
-    "Cluster de saude - versão 8 de abril.pdf",
     "widget.md",
     "widget de estado.md",
     "Revisão rapida para prova.md",
     "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
     "Mobile.md",
-    "index/Fork for my brain.md",
     "templates/Como usar.md",
     "templates/Index.md",
-    "Segurança.md",
-    "Jwt em login.md",
     "Ingles.md",
     "Testando mais uma vex.md",
     "Testando.md",
@@ -307,8 +309,6 @@
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 4.md",
-    "Untitled 5.md",
-    "Untitled 6.md",
-    "Untitled 7.md"
+    "Untitled 5.md"
   ]
 }

@@ -2,7 +2,7 @@
 
 ---
 
-## Saúde
+## Crianças 
 ### Estatísticas dos Clusters (4 clusters sem outlier)
 - **Silhouette Score**: 0.3030  
 - **Variância Explicada (PCA)**:  
@@ -19,7 +19,7 @@
 | 2       | 0.56                          | 78.21                    | 87.45                     | 78.87                               |  
 | 3       | 1.08                          | 110.48                   | 52.14                     | 67.41                               |  
 
-### Resposta Manual (Saúde)
+### Resposta Manual (Crianças)
 - **Cluster 0**: [NOME DO CLUSTER]
   - **Perfil**: Municípios com alta mortalidade infantil, vacinação BCG média e indicadores educacionais moderados.
   - **Pontos Fortes**: Taxa de vacinação BCG acima da média se comparada ao Cluster 1.
@@ -46,7 +46,7 @@
 
 ---
 
-## Crianças
+## Saude
 ### Estatísticas dos Clusters (4 clusters sem outlier)
 - **Silhouette Score**: 0.3000  
 - **Variância Explicada (PCA)**:  
@@ -63,7 +63,7 @@
 | 2       | 2.44                           | 1.282                     | 0.65                         | 322.00                         |  
 | 3       | 2.69                           | 0.960                     | 5.95                         | 5391.80                        |  
 
-### Resposta Manual (Crianças)
+### Resposta Manual (Saude)
 - **Cluster 0**: [NOME DO CLUSTER]
   - **Perfil**: Municípios com alta mortalidade prematura, cobertura vacinal média e baixo acesso a exames especializados.
   - **Pontos Fortes**: Cobertura vacinal próxima a 100%.
