@@ -4,22 +4,23 @@ tags:
   - tema/xyz
 aliases: 
 lead: +++ Parágrafo de introdução vai aqui +++
-created: 2025-04-02, 14:51
-modified: 2025-04-02, 14:51
+created: 2025-04-08, 11:24
+modified: 2025-04-08, 11:24
 template_type: Nota
 template_version: "1.35"
 license: MicksCoder
 ---
 
 
-# Testando mais uma vex
+# nest segurança
 
 > [!Resumo]
-> `= this.lead`
+> `Passo a passo da documentação do nest sobre AUTENTICAÇÃO`
 
 # **PRINCIPAL**
-<!-- CONTEUDO PRINCIPAL -->
-- 
+
+1. Inicialmente no nest é necessario configurar o modulo controller e service de auth,aproveite a ferramena e crie usando, ***nest generate module auth***, ***nest generate controller auth*** ,***nest generate service auth***
+2. Usaremos também o modulo se usuarios 
 
 **Conteúdo de Apoio**
 - 

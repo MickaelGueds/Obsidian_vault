@@ -4,25 +4,24 @@ tags:
   - tema/xyz
 aliases: 
 lead: +++ Parágrafo de introdução vai aqui +++
-created: 2025-04-02, 14:44
-modified: 2025-04-02, 14:44
+created: 2025-04-08, 11:23
+modified: 2025-04-08, 11:23
 template_type: Nota
 template_version: "1.35"
 license: MicksCoder
 ---
 
 
-# Testando no ubuntu
+# nest
 
 > [!Resumo]
 > `= this.lead`
 
 # **PRINCIPAL**
-<!-- CONTEUDO PRINCIPAL -->
-- 
+- Meu aprendizado e notas baseados na documentação do nest
 
 **Conteúdo de Apoio**
-- 
+- [[nest segurança]]
 
 ---
 # Complementos

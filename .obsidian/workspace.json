@@ -51,6 +51,7 @@
           }
         ],
         "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,6 +255,13 @@
   },
   "active": "2fd284a2e12951f2",
   "lastOpenFiles": [
+    "nest.md",
+    "nest segurança.md",
+    "conflict-files-obsidian-git.md",
+    "Estatisticas clusters.md",
+    "Docker_host.md",
+    "Cluster de saude - versão 8 de abril.pdf",
+    "Cluster de saude - versão 8 de abril.md",
     "Segurança.md",
     "index/Fork for my brain.md",
     "Jwt em login.md",
@@ -274,9 +282,6 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "Untitled 4.md",
-    "Untitled 5.md",
-    "Untitled 6.md",
-    "Untitled 7.md"
+    "Untitled 4.md"
   ]
 }
