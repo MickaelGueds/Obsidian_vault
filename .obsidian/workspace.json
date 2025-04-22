@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "widget.md",
+                "file": "Revisão rapida para prova.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "widget"
+              "title": "Revisão rapida para prova"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revisão rapida para prova.md",
+                "file": "Jwt em login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisão rapida para prova"
+              "title": "Jwt em login"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "widget.md",
+                "file": "Jwt em login.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,12 +194,12 @@
                   "repelStrength": 1.5625,
                   "linkStrength": 1,
                   "linkDistance": 125,
-                  "scale": 0.6666666666666666,
+                  "scale": 0.4444444444444444,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of widget"
+              "title": "Graph of Jwt em login"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "widget.md",
+                "file": "Jwt em login.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of widget"
+              "title": "Outline of Jwt em login"
             }
           }
         ]
@@ -254,16 +254,16 @@
   },
   "active": "2fd284a2e12951f2",
   "lastOpenFiles": [
-    "widget de estado.md",
-    "Revisão rapida para prova.md",
-    "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
-    "widget.md",
-    "Mobile.md",
+    "Segurança.md",
     "index/Fork for my brain.md",
+    "Jwt em login.md",
+    "Revisão rapida para prova.md",
+    "widget.md",
+    "widget de estado.md",
+    "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
+    "Mobile.md",
     "templates/Como usar.md",
     "templates/Index.md",
-    "Segurança.md",
-    "Jwt em login.md",
     "Ingles.md",
     "Testando mais uma vex.md",
     "Testando.md",

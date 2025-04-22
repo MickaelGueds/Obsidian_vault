@@ -28,6 +28,8 @@ license: MicksCoder
 - Otimo, agora como o nest faz isso, ele basicamente tem um guardião que define a estrategia,essa estrategia tem varias possibilidades, vamos aprender a padrão aqui no artigo da documentação do nest abaixo:
 
  -  Prepare o prisma e o banco de dados a ser usado
+ - Instale as dependências 
+ - 
 
 **Conteúdo de Apoio**
 - https://youtu.be/3z6Cs_PtYc0?si=p5pKIVIDKHCeH_ap
