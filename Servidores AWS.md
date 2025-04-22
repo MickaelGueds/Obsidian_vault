@@ -19,7 +19,9 @@ license: MicksCoder
 
 # **PRINCIPAL**
 <!-- CONTEUDO PRINCIPAL -->
-- 
+Diferença principal entre os tipos de aplicação em nuvem:
+
+Iass
 
 **Conteúdo de Apoio**
 - 
