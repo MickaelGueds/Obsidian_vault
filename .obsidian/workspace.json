@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "widget.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "widget"
+            }
+          },
+          {
+            "id": "216e5868c5ffd13c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Revisão rapida para prova.md",
                 "mode": "source",
                 "source": false
@@ -36,21 +50,48 @@
             }
           },
           {
-            "id": "216e5868c5ffd13c",
+            "id": "ea3c9da60c4cd92f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jwt em login.md",
+                "file": "Cluster de saude - versão 8 de abril.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jwt em login"
+              "title": "Cluster de saude - versão 8 de abril"
+            }
+          },
+          {
+            "id": "5f9b24b2e506f067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estatisticas clusters.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Estatisticas clusters"
+            }
+          },
+          {
+            "id": "06100df22436e481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
         "currentTab": 5
       }
     ],
@@ -152,6 +193,16 @@
             }
           },
           {
+            "id": "2fd284a2e12951f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "01acec92851c09c4",
             "type": "leaf",
             "state": {
@@ -172,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Jwt em login.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,26 +246,16 @@
                   "repelStrength": 1.5625,
                   "linkStrength": 1,
                   "linkDistance": 125,
-                  "scale": 0.4444444444444444,
+                  "scale": 0.47551697508162816,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Jwt em login"
-            }
-          },
-          {
-            "id": "2fd284a2e12951f2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Graph of conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "bbadf94f2b93ef93",
@@ -226,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jwt em login.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jwt em login"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
@@ -253,21 +294,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fd284a2e12951f2",
+  "active": "06100df22436e481",
   "lastOpenFiles": [
-    "nest.md",
-    "nest segurança.md",
     "conflict-files-obsidian-git.md",
     "Estatisticas clusters.md",
     "Docker_host.md",
     "Cluster de saude - versão 8 de abril.pdf",
-    "Cluster de saude - versão 8 de abril.md",
+    "nest segurança.md",
+    "nest.md",
+    "Jwt em login.md",
     "Segurança.md",
     "index/Fork for my brain.md",
-    "Jwt em login.md",
-    "Revisão rapida para prova.md",
+    "Estatisticas clusters.pdf",
+    "Cluster de saude - versão 8 de abril.md",
     "widget.md",
     "widget de estado.md",
+    "Revisão rapida para prova.md",
     "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
     "Mobile.md",
     "templates/Como usar.md",
