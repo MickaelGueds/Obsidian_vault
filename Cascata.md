@@ -1,40 +1,26 @@
 ---
 tags:
-  - tipo/nota
-  - tema/xyz
+  - metodologia
 aliases: 
 lead: +++ Parágrafo de introdução vai aqui +++
-created: 2025-04-22, 16:09
-modified: 2025-04-22, 16:09
+created: 2025-04-22, 17:31
+modified: 2025-04-22, 17:31
 template_type: Nota
 template_version: "1.35"
 license: MicksCoder
 ---
 
 
-# Servidores AWS
+# Cascata
 
 > [!Resumo]
 > `= this.lead`
 
 # **PRINCIPAL**
+- Desenvolvimento sequencial que uma fase deve ser concluida antes de passar para a proxima, é mais complicado para alterções constantes
 
-Diferença principal entre os tipos de modelos de aplicações em nuvens
-
-# IaaS:
-Infraestrutura como um serviço:
-	Voce detem mais controle sobre as configurações
-
-# PaaS:
-Plataforma como serviço, controle mediano
-# SaaS:
-Software como um serviço, term pouco controle sobre a configuração
-
-## Beneficios:
-Despesas variaveis, economias de escala massiva, nao necessita adviinhar a capacidade, aumenta a velocidade e agilidade,sem custo de dinheiro com a execução e manutenção de datacenters, alcance global em minutos -> paga o que consome resumindo
-
-Agora vamos para o conteudo em si:
-- [[Ciclo de vida do desenvolvimento de sistema]]
+**Conteúdo de Apoio**
+- 
 
 ---
 # Complementos

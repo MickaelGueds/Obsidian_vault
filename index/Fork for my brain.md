@@ -15,3 +15,7 @@ tags: []
 
 ## 3 - [[Mobile]]
  - [Prova de mobile_ estudo rapido de flutter]
+
+## 4 - [[Deploy]]
+- [Servidores AWS]
+

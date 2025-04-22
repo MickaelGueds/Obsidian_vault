@@ -4,81 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9d2d5413cfea5b",
+        "id": "3d5f755ec4a4074a",
         "type": "tabs",
         "children": [
           {
-            "id": "1fe620562290edcc",
+            "id": "9011233102b2cfe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revisão rapida para prova.md",
+                "file": "Deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisão rapida para prova"
+              "title": "Deploy"
             }
           },
           {
-            "id": "3dace671fc5b38c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "widget.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "widget"
-            }
-          },
-          {
-            "id": "216e5868c5ffd13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revisão rapida para prova.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revisão rapida para prova"
-            }
-          },
-          {
-            "id": "ea3c9da60c4cd92f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cluster de saude - versão 8 de abril.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cluster de saude - versão 8 de abril"
-            }
-          },
-          {
-            "id": "5f9b24b2e506f067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estatisticas clusters.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Estatisticas clusters"
-            }
-          },
-          {
-            "id": "70790e42bc582045",
+            "id": "c2e98c447188e980",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Servidores AWS"
             }
+          },
+          {
+            "id": "7fee5f93e08d5a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo de vida do desenvolvimento de sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ciclo de vida do desenvolvimento de sistema"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Ciclo de vida do desenvolvimento de sistema.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,16 +200,16 @@
                   "nodeSizeMultiplier": 0.7890625,
                   "lineSizeMultiplier": 0.738020833333333,
                   "collapse-forces": false,
-                  "centerStrength": 0.817708333333333,
-                  "repelStrength": 1.5625,
+                  "centerStrength": 0.182291666666667,
+                  "repelStrength": 12.1875,
                   "linkStrength": 1,
                   "linkDistance": 125,
-                  "scale": 0.47551697508162816,
+                  "scale": 0.713275462622442,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of conflict-files-obsidian-git"
+              "title": "Graph of Ciclo de vida do desenvolvimento de sistema"
             }
           }
         ],
@@ -267,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servidores AWS.md",
+                "file": "Ciclo de vida do desenvolvimento de sistema.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Servidores AWS"
+              "title": "Outline of Ciclo de vida do desenvolvimento de sistema"
             }
           }
         ]
@@ -294,10 +252,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70790e42bc582045",
+  "active": "2fd284a2e12951f2",
   "lastOpenFiles": [
-    "Estatisticas clusters.md",
+    "Cascata.md",
+    "Ciclo de vida do desenvolvimento de sistema.md",
+    "Metodologia Ágil.md",
     "Servidores AWS.md",
+    "Deploy.md",
+    "index/Fork for my brain.md",
+    "Estatisticas clusters.md",
     "conflict-files-obsidian-git.md",
     "Docker_host.md",
     "Cluster de saude - versão 8 de abril.pdf",
@@ -305,7 +268,6 @@
     "nest.md",
     "Jwt em login.md",
     "Segurança.md",
-    "index/Fork for my brain.md",
     "Estatisticas clusters.pdf",
     "Cluster de saude - versão 8 de abril.md",
     "widget.md",
@@ -320,10 +282,6 @@
     "Testando.md",
     "Testando mobile.md",
     "Testando no ubuntu.md",
-    "templates/Modelo de notas.md",
-    "index",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled 3.md"
+    "index"
   ]
 }
