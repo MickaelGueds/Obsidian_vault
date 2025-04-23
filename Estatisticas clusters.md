@@ -99,11 +99,11 @@
 - **Quantidade de Municípios por Cluster**:  
   - Cluster 0: 48 | Cluster 1: 86 | Cluster 2: 90  
 
-| Cluster | IDEB AI (média) | IDEB Anos Finais (média) | SAEPI Português (média) | SAEPI Matemática (média) | Taxa Evasão Anos Iniciais (média) |  
-|---------|------------------|---------------------------|--------------------------|---------------------------|------------------------------------|  
-| 0       | 4.61             | 4.00                      | 624.62                   | 534.52                    | 2.47                               |  
-| 1       | 6.15             | 5.12                      | 690.37                   | 586.05                    | 1.13                               |  
-| 2       | 5.15             | 4.57                      | 601.67                   | 510.76                    | 1.17                               |  
+| Cluster | IDEB AI (média) | IDEB Anos Finais (média) | SAEPI Português (média) | SAEPI Matemática (média) | Taxa Evasão Anos Iniciais (média) |     |
+| ------- | --------------- | ------------------------ | ----------------------- | ------------------------ | --------------------------------- | --- |
+| 0       | 4.61            | 4.00                     | 624.62                  | 534.52                   | 2.47                              |     |
+| 1       | 6.15            | 5.12                     | 690.37                  | 586.05                   | 1.13                              |     |
+| 2       | 5.15            | 4.57                     | 601.67                  | 510.76                   | 1.17                              |     |
 
 ### Resposta Manual (Educação)
 - **Cluster 0**: [NOME DO CLUSTER]
