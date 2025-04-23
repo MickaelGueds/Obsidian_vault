@@ -1,36 +1,32 @@
 ---
 tags:
-  - tipo/nota
-  - tema/xyz
+  - metodologia
 aliases: 
 lead: +++ Parágrafo de introdução vai aqui +++
-created: 2025-04-02, 17:09
-modified: 2025-04-02, 17:09
+created: 2025-04-22, 17:24
+modified: 2025-04-22, 17:24
 template_type: Nota
 template_version: "1.35"
 license: MicksCoder
 ---
-	
 
-# Revisão rapida para prova
+
+# Ágil
 
 > [!Resumo]
-> `Resumo rapido para prova`
+> `Como funciona metodologias ageis`
 
 # **PRINCIPAL**
-<!-- CONTEUDO PRINCIPAL -->
-- [[widget]]
-- [[widget de estado]]
-- Comando criar projeto -- flutter create
-- pubsec define o que? -- dependencias e assets
-- [[Qual widget é usado para criar interface com varios filhos?]]
-- [[Funções internas mais usadas]]
-- [[principais widget e hocks/estados do widget]]
-- [[O que são arvores de widget dentro do fluuter ]]
 
+A **Metodologia Ágil** é uma estrutura conceitual que apoia o **desenvolvimento rápido e iterativo** de software.
+- Foco em **entregas frequentes** e **feedback constante** dos usuários.
+- O objetivo é **aprimorar continuamente** o produto com base nas interações reais.
+### 🔁 Princípios-chave
+- Entregas **incrementais**
+- **Iterações curtas**
+- Comunicação constante entre **equipe e cliente**
+- Requisitos podem mudar com frequência e a aws permite a mudança de maneira mais eficiente 
 
-**Conteúdo de Apoio**
-- 
 
 ---
 # Complementos

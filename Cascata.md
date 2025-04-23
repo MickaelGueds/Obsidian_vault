@@ -1,33 +1,23 @@
 ---
 tags:
-  - tipo/nota
-  - tema/xyz
+  - metodologia
 aliases: 
 lead: +++ Parágrafo de introdução vai aqui +++
-created: 2025-04-02, 17:09
-modified: 2025-04-02, 17:09
+created: 2025-04-22, 17:31
+modified: 2025-04-22, 17:31
 template_type: Nota
 template_version: "1.35"
 license: MicksCoder
 ---
-	
 
-# Revisão rapida para prova
+
+# Cascata
 
 > [!Resumo]
-> `Resumo rapido para prova`
+> `= this.lead`
 
 # **PRINCIPAL**
-<!-- CONTEUDO PRINCIPAL -->
-- [[widget]]
-- [[widget de estado]]
-- Comando criar projeto -- flutter create
-- pubsec define o que? -- dependencias e assets
-- [[Qual widget é usado para criar interface com varios filhos?]]
-- [[Funções internas mais usadas]]
-- [[principais widget e hocks/estados do widget]]
-- [[O que são arvores de widget dentro do fluuter ]]
-
+- Desenvolvimento sequencial que uma fase deve ser concluida antes de passar para a proxima, é mais complicado para alterções constantes
 
 **Conteúdo de Apoio**
 - 

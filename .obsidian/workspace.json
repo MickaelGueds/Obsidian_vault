@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estatisticas clusters.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Estatisticas clusters"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
@@ -223,8 +223,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1fe620562290edcc",
+  "active": "452550dfdc7f1a23",
   "lastOpenFiles": [
+    "Estatisticas clusters.md",
+    "conflict-files-obsidian-git.md",
+    "Servidores AWS.md",
+    "Metodologia Ágil.md",
+    "Deploy.md",
+    "Ciclo de vida do desenvolvimento de sistema.md",
+    "Cascata.md",
     "Cluster de saude - versão 8 de abril.pdf",
     "Estatistica.md",
     "Viagem de uma alma.md",
@@ -235,9 +242,7 @@
     "nest.md",
     "Untitled 1.md",
     "Untitled",
-    "Estatisticas clusters.md",
     "Livros",
-    "conflict-files-obsidian-git.md",
     "Docker_host.md",
     "Jwt em login.md",
     "Segurança.md",
@@ -250,10 +255,6 @@
     "templates/Como usar.md",
     "templates/Index.md",
     "Ingles.md",
-    "Testando mais uma vex.md",
-    "Testando.md",
-    "Testando mobile.md",
-    "Testando no ubuntu.md",
     "index"
   ]
 }

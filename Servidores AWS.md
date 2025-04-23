@@ -4,33 +4,37 @@ tags:
   - tema/xyz
 aliases: 
 lead: +++ Parágrafo de introdução vai aqui +++
-created: 2025-04-02, 17:09
-modified: 2025-04-02, 17:09
+created: 2025-04-22, 16:09
+modified: 2025-04-22, 16:09
 template_type: Nota
 template_version: "1.35"
 license: MicksCoder
 ---
-	
 
-# Revisão rapida para prova
+
+# Servidores AWS
 
 > [!Resumo]
-> `Resumo rapido para prova`
+> `= this.lead`
 
 # **PRINCIPAL**
-<!-- CONTEUDO PRINCIPAL -->
-- [[widget]]
-- [[widget de estado]]
-- Comando criar projeto -- flutter create
-- pubsec define o que? -- dependencias e assets
-- [[Qual widget é usado para criar interface com varios filhos?]]
-- [[Funções internas mais usadas]]
-- [[principais widget e hocks/estados do widget]]
-- [[O que são arvores de widget dentro do fluuter ]]
 
+Diferença principal entre os tipos de modelos de aplicações em nuvens
 
-**Conteúdo de Apoio**
-- 
+# IaaS:
+Infraestrutura como um serviço:
+	Voce detem mais controle sobre as configurações
+
+# PaaS:
+Plataforma como serviço, controle mediano
+# SaaS:
+Software como um serviço, term pouco controle sobre a configuração
+
+## Beneficios:
+Despesas variaveis, economias de escala massiva, nao necessita adviinhar a capacidade, aumenta a velocidade e agilidade,sem custo de dinheiro com a execução e manutenção de datacenters, alcance global em minutos -> paga o que consome resumindo
+
+Agora vamos para o conteudo em si:
+- [[Ciclo de vida do desenvolvimento de sistema]]
 
 ---
 # Complementos
