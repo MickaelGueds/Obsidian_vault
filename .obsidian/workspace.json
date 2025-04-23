@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estatisticas clusters.md",
+                "file": "Servidores AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estatisticas clusters"
+              "title": "Servidores AWS"
             }
           }
         ]
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Servidores AWS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Servidores AWS"
             }
           }
         ]
@@ -223,7 +223,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "452550dfdc7f1a23",
+  "active": "1fe620562290edcc",
   "lastOpenFiles": [
     "Estatisticas clusters.md",
     "conflict-files-obsidian-git.md",
