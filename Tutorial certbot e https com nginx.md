@@ -11,7 +11,7 @@ Criar um ambiente com Docker onde múltiplos domínios passam por um NGINX centr
 - Acesse o painel do seu provedor de domínio (ex: Hostinger, GoDaddy, Registro.br).
     
 - Para cada domínio (ex: `site1.com`, `site2.com`), crie um **registro A**:
-    
+    aaaa
 
 ```
 Tipo: A
