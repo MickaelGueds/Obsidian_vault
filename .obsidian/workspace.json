@@ -4,37 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9d2d5413cfea5b",
+        "id": "3d5f755ec4a4074a",
         "type": "tabs",
         "children": [
           {
-            "id": "1fe620562290edcc",
+            "id": "9011233102b2cfe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario do sonho.md",
+                "file": "Deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diario do sonho"
+              "title": "Deploy"
             }
           },
           {
-            "id": "4c9f14e09fa7dd84",
+            "id": "c2e98c447188e980",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Servidores AWS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Servidores AWS"
             }
           },
           {
-            "id": "122ce4b44104a2bb",
+            "id": "7fee5f93e08d5a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Estatisticas clusters.md",
+                "file": "Ciclo de vida do desenvolvimento de sistema.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,16 +200,16 @@
                   "nodeSizeMultiplier": 0.7890625,
                   "lineSizeMultiplier": 0.738020833333333,
                   "collapse-forces": false,
-                  "centerStrength": 0.817708333333333,
-                  "repelStrength": 1.5625,
+                  "centerStrength": 0.182291666666667,
+                  "repelStrength": 12.1875,
                   "linkStrength": 1,
                   "linkDistance": 125,
-                  "scale": 0.47551697508162816,
+                  "scale": 0.713275462622442,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Estatisticas clusters"
+              "title": "Graph of Ciclo de vida do desenvolvimento de sistema"
             }
           }
         ],
@@ -250,38 +252,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "122ce4b44104a2bb",
+  "active": "7fee5f93e08d5a58",
   "lastOpenFiles": [
-    "Tutorial certbot e https com nginx.md",
+    "Ciclo de vida do desenvolvimento de sistema.md",
     "Viagem de uma alma.md",
-    "Diario do sonho.md",
+    "Tutorial certbot e https com nginx.md",
     "Livros/Livros - 2025.md",
+    "Livros",
+    "Diario do sonho.md",
+    "Cascata.md",
+    "Metodologia Ágil.md",
     "Servidores AWS.md",
+    "Deploy.md",
+    "index/Fork for my brain.md",
     "Estatisticas clusters.md",
     "conflict-files-obsidian-git.md",
-    "Metodologia Ágil.md",
-    "Deploy.md",
-    "Ciclo de vida do desenvolvimento de sistema.md",
-    "Cascata.md",
+    "Docker_host.md",
     "Cluster de saude - versão 8 de abril.pdf",
-    "Estatistica.md",
-    "widget de estado.md",
-    "Revisão rapida para prova.md",
     "nest segurança.md",
     "nest.md",
-    "Untitled 1.md",
-    "Untitled",
-    "Livros",
-    "Docker_host.md",
     "Jwt em login.md",
     "Segurança.md",
-    "index/Fork for my brain.md",
     "Estatisticas clusters.pdf",
     "Cluster de saude - versão 8 de abril.md",
     "widget.md",
+    "widget de estado.md",
+    "Revisão rapida para prova.md",
     "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
     "Mobile.md",
     "templates/Como usar.md",
+    "templates/Index.md",
+    "Ingles.md",
     "index"
   ]
 }
