@@ -6,7 +6,7 @@ tags: []
 # Principais assuntos 
 ---
 ## 1 - Software 
-- File link
+- File
 	- 
 
 ## 2 - [[Segurança]]
@@ -19,3 +19,5 @@ tags: []
 ## 4 - [[Deploy]]
 - [Servidores AWS]
 
+## 5 - [[Backend]]
+- [nest ]

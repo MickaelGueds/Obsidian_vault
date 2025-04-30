@@ -1,25 +1,26 @@
 ---
 tags:
   - Backend
-  - framework
 aliases: 
-lead: Sobre o framework nest
-created: 2025-04-08, 11:23
-modified: 2025-04-08, 11:23
+lead: +++ Parágrafo de introdução vai aqui +++
+created: 2025-04-30, 07:48
+modified: 2025-04-30, 07:48
 template_type: Nota
 template_version: "1.35"
 license: MicksCoder
 ---
 
 
-# nest
+# Backend
+
+> [!Resumo]
+> `Principais conceitos do meu aprendizado de backend`
 
 # **PRINCIPAL**
-- Meu aprendizado e notas baseados na documentação do nest
+- [[nest]]]
 
 **Conteúdo de Apoio**
-- [[nest service]]
-- [[nest segurança]]
+- 
 
 ---
 # Complementos
