@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4525f95c67f98332",
+        "id": "3d5f755ec4a4074a",
         "type": "tabs",
         "children": [
           {
-            "id": "faa46f7e8d2a11a0",
+            "id": "9011233102b2cfe1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Deploy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deploy"
+            }
+          },
+          {
+            "id": "f663844e1a6bac6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fluxo da aplicação de autenticação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fluxo da aplicação de autenticação"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,6 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Ciclo de vida do desenvolvimento de sistema.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,16 +186,16 @@
                   "nodeSizeMultiplier": 0.7890625,
                   "lineSizeMultiplier": 0.738020833333333,
                   "collapse-forces": false,
-                  "centerStrength": 0.817708333333333,
-                  "repelStrength": 1.5625,
+                  "centerStrength": 0.182291666666667,
+                  "repelStrength": 12.1875,
                   "linkStrength": 1,
                   "linkDistance": 125,
-                  "scale": 0.47551697508162816,
+                  "scale": 0.713275462622442,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Ciclo de vida do desenvolvimento de sistema"
             }
           }
         ],
@@ -191,12 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "fluxo da aplicação de autenticação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of fluxo da aplicação de autenticação"
             }
           }
         ]
@@ -217,38 +238,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fd284a2e12951f2",
+  "active": "f663844e1a6bac6a",
   "lastOpenFiles": [
-    "nest controller.md",
-    "nest service.md",
-    "nest.md",
-    "Nest service.md",
-    "nest segurança.md",
-    "Backend.md",
-    "index/Fork for my brain.md",
-    "Segurança.md",
-    "Tutorial certbot e https com nginx.md",
-    "Viagem de uma alma.md",
-    "Diario do sonho.md",
-    "Livros/Livros - 2025.md",
+    "Deploy.md",
+    "fluxo da aplicação de autenticação.md",
     "Servidores AWS.md",
+    "Jwt em login.md",
+    "Segurança.md",
+    "index/Fork for my brain.md",
+    "Tutorial certbot e https com nginx.md",
+    "nest service.md",
+    "nest controller.md",
+    "Backend.md",
+    "Ciclo de vida do desenvolvimento de sistema.md",
+    "Viagem de uma alma.md",
+    "Livros/Livros - 2025.md",
+    "Livros",
+    "Diario do sonho.md",
+    "Cascata.md",
+    "Metodologia Ágil.md",
     "Estatisticas clusters.md",
     "conflict-files-obsidian-git.md",
-    "Metodologia Ágil.md",
-    "Deploy.md",
-    "Ciclo de vida do desenvolvimento de sistema.md",
-    "Cascata.md",
-    "Cluster de saude - versão 8 de abril.pdf",
-    "Estatistica.md",
-    "widget de estado.md",
-    "Revisão rapida para prova.md",
-    "Untitled 1.md",
-    "Untitled",
-    "Livros",
     "Docker_host.md",
-    "Jwt em login.md",
+    "Cluster de saude - versão 8 de abril.pdf",
+    "nest segurança.md",
+    "nest.md",
     "Estatisticas clusters.pdf",
     "Cluster de saude - versão 8 de abril.md",
+    "widget.md",
+    "widget de estado.md",
+    "Revisão rapida para prova.md",
+    "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
     "index"
   ]
 }
