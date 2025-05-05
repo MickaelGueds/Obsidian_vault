@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "3d5f755ec4a4074a",
+        "id": "8c9d2d5413cfea5b",
         "type": "tabs",
         "children": [
           {
-            "id": "9011233102b2cfe1",
+            "id": "1fe620562290edcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deploy.md",
+                "file": "Revisão rapida para prova.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deploy"
+              "title": "Revisão rapida para prova"
             }
           },
           {
-            "id": "f663844e1a6bac6a",
+            "id": "3dace671fc5b38c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fluxo da aplicação de autenticação.md",
+                "file": "widget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fluxo da aplicação de autenticação"
+              "title": "widget"
+            }
+          },
+          {
+            "id": "216e5868c5ffd13c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revisão rapida para prova.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revisão rapida para prova"
+            }
+          },
+          {
+            "id": "172e40ef48e77a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker_host.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker_host"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,16 +165,6 @@
             }
           },
           {
-            "id": "2fd284a2e12951f2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "01acec92851c09c4",
             "type": "leaf",
             "state": {
@@ -167,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ciclo de vida do desenvolvimento de sistema.md",
+                "file": "widget.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,20 +204,30 @@
                   "nodeSizeMultiplier": 0.7890625,
                   "lineSizeMultiplier": 0.738020833333333,
                   "collapse-forces": false,
-                  "centerStrength": 0.182291666666667,
-                  "repelStrength": 12.1875,
+                  "centerStrength": 0.817708333333333,
+                  "repelStrength": 1.5625,
                   "linkStrength": 1,
                   "linkDistance": 125,
-                  "scale": 0.713275462622442,
+                  "scale": 0.6666666666666666,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ciclo de vida do desenvolvimento de sistema"
+              "title": "Graph of widget"
+            }
+          },
+          {
+            "id": "2fd284a2e12951f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "bbadf94f2b93ef93",
@@ -211,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fluxo da aplicação de autenticação.md",
+                "file": "Docker_host.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fluxo da aplicação de autenticação"
+              "title": "Outline of Docker_host"
             }
           }
         ]
@@ -238,37 +266,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f663844e1a6bac6a",
+  "active": "2fd284a2e12951f2",
   "lastOpenFiles": [
-    "Deploy.md",
-    "fluxo da aplicação de autenticação.md",
-    "Servidores AWS.md",
-    "Jwt em login.md",
-    "Segurança.md",
-    "index/Fork for my brain.md",
-    "Tutorial certbot e https com nginx.md",
+    "nest.md",
     "nest service.md",
+    "nest segurança.md",
     "nest controller.md",
-    "Backend.md",
-    "Ciclo de vida do desenvolvimento de sistema.md",
+    "fluxo da aplicação de autenticação.md",
     "Viagem de uma alma.md",
+    "Tutorial certbot e https com nginx.md",
+    "Servidores AWS.md",
+    "Metodologia Ágil.md",
     "Livros/Livros - 2025.md",
     "Livros",
     "Diario do sonho.md",
+    "Deploy.md",
+    "Ciclo de vida do desenvolvimento de sistema.md",
     "Cascata.md",
-    "Metodologia Ágil.md",
-    "Estatisticas clusters.md",
-    "conflict-files-obsidian-git.md",
-    "Docker_host.md",
-    "Cluster de saude - versão 8 de abril.pdf",
-    "nest segurança.md",
-    "nest.md",
-    "Estatisticas clusters.pdf",
-    "Cluster de saude - versão 8 de abril.md",
+    "Backend.md",
     "widget.md",
+    "Docker_host.md",
+    "Estatisticas clusters.md",
+    "Cluster de saude - versão 8 de abril.pdf",
+    "Cluster de saude - versão 8 de abril.md",
     "widget de estado.md",
     "Revisão rapida para prova.md",
     "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
+    "Mobile.md",
+    "index/Fork for my brain.md",
+    "templates/Como usar.md",
+    "templates/Index.md",
     "index"
   ]
 }
