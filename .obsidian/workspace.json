@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9d2d5413cfea5b",
+        "id": "3d5f755ec4a4074a",
         "type": "tabs",
         "children": [
           {
-            "id": "1fe620562290edcc",
+            "id": "f663844e1a6bac6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revisão rapida para prova.md",
+                "file": "fluxo da aplicação de autenticação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisão rapida para prova"
+              "title": "fluxo da aplicação de autenticação"
             }
           },
           {
-            "id": "3dace671fc5b38c5",
+            "id": "17b013aef878018c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "widget.md",
+                "file": "Redes raimundo neto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "widget"
-            }
-          },
-          {
-            "id": "216e5868c5ffd13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Revisão rapida para prova.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revisão rapida para prova"
-            }
-          },
-          {
-            "id": "172e40ef48e77a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker_host.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker_host"
+              "title": "Redes raimundo neto"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,6 +137,16 @@
             }
           },
           {
+            "id": "2fd284a2e12951f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "01acec92851c09c4",
             "type": "leaf",
             "state": {
@@ -185,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "widget.md",
+                "file": "Ciclo de vida do desenvolvimento de sistema.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,30 +186,20 @@
                   "nodeSizeMultiplier": 0.7890625,
                   "lineSizeMultiplier": 0.738020833333333,
                   "collapse-forces": false,
-                  "centerStrength": 0.817708333333333,
-                  "repelStrength": 1.5625,
+                  "centerStrength": 0.182291666666667,
+                  "repelStrength": 12.1875,
                   "linkStrength": 1,
                   "linkDistance": 125,
-                  "scale": 0.6666666666666666,
+                  "scale": 0.713275462622442,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of widget"
-            }
-          },
-          {
-            "id": "2fd284a2e12951f2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Graph of Ciclo de vida do desenvolvimento de sistema"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "bbadf94f2b93ef93",
@@ -239,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker_host.md",
+                "file": "Redes raimundo neto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker_host"
+              "title": "Outline of Redes raimundo neto"
             }
           }
         ]
@@ -266,36 +238,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fd284a2e12951f2",
+  "active": "17b013aef878018c",
   "lastOpenFiles": [
-    "nest.md",
-    "nest service.md",
-    "nest segurança.md",
-    "nest controller.md",
+    "Redes raimundo neto.md",
     "fluxo da aplicação de autenticação.md",
-    "Viagem de uma alma.md",
-    "Tutorial certbot e https com nginx.md",
+    "Deploy.md",
     "Servidores AWS.md",
-    "Metodologia Ágil.md",
+    "Jwt em login.md",
+    "Segurança.md",
+    "index/Fork for my brain.md",
+    "Tutorial certbot e https com nginx.md",
+    "nest service.md",
+    "nest controller.md",
+    "Backend.md",
+    "Ciclo de vida do desenvolvimento de sistema.md",
+    "Viagem de uma alma.md",
     "Livros/Livros - 2025.md",
     "Livros",
     "Diario do sonho.md",
-    "Deploy.md",
-    "Ciclo de vida do desenvolvimento de sistema.md",
     "Cascata.md",
-    "Backend.md",
-    "widget.md",
-    "Docker_host.md",
+    "Metodologia Ágil.md",
     "Estatisticas clusters.md",
+    "conflict-files-obsidian-git.md",
+    "Docker_host.md",
     "Cluster de saude - versão 8 de abril.pdf",
+    "nest segurança.md",
+    "nest.md",
+    "Estatisticas clusters.pdf",
     "Cluster de saude - versão 8 de abril.md",
+    "widget.md",
     "widget de estado.md",
     "Revisão rapida para prova.md",
-    "O statelessWidget serve para que?ele pode modificar o estado interno?.md",
-    "Mobile.md",
-    "index/Fork for my brain.md",
-    "templates/Como usar.md",
-    "templates/Index.md",
     "index"
   ]
 }
