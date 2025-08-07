@@ -109,16 +109,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposta de Prestação de Serviço como Pessoa Jurídica (PJ).md",
+                "file": "Livros/Livros - 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proposta de Prestação de Serviço como Pessoa Jurídica (PJ)"
+              "title": "Livros - 2025"
+            }
+          },
+          {
+            "id": "0ecb5638aa758e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teste.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teste"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -293,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposta de Prestação de Serviço como Pessoa Jurídica (PJ).md",
+                "file": "Teste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Proposta de Prestação de Serviço como Pessoa Jurídica (PJ)"
+              "title": "Outline of Teste"
             }
           }
         ]
@@ -317,11 +331,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1d6841c764eeb184",
+  "active": "0ecb5638aa758e56",
   "lastOpenFiles": [
+    "Livros/Livros - 2025.md",
+    "Teste.md",
     "Proposta de Prestação de Serviço como Pessoa Jurídica (PJ).pdf",
     "proposta.pdf",
     "Morram.md",
@@ -334,7 +351,6 @@
     "index/Fork for my brain.md",
     "saude/Treino adaptado.md",
     "saude",
-    "Untitled.md",
     "Docker_host.md",
     "nest.md",
     "nest service.md",
@@ -345,7 +361,6 @@
     "Tutorial certbot e https com nginx.md",
     "Servidores AWS.md",
     "Metodologia Ágil.md",
-    "Livros/Livros - 2025.md",
     "Livros",
     "Diario do sonho.md",
     "Deploy.md",
